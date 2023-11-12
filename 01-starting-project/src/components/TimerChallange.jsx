@@ -1,3 +1,4 @@
+import '../style/TimerChallange.css'
 import { useRef, useState } from "react"
 import ResultModal from "./ResultModal"
 

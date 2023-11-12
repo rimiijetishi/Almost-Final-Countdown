@@ -1,3 +1,5 @@
+import '../style/Player.css'
+
 import { useState, useRef } from "react";
 
 export default function Player() {
